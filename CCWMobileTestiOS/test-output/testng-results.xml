@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77241" started-at="2019-02-12T15:30:13Z" finished-at="2019-02-12T15:31:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77241" started-at="2019-02-12T15:30:13Z" finished-at="2019-02-12T15:31:31Z">
+      <class name="com.ccw.qa.TestCases.LoginPageTest">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.ccw.qa.TestCases.LoginPageTest@1ce92674]" name="LaunchApp" is-config="true" duration-ms="38026" started-at="2019-02-12T15:30:13Z" finished-at="2019-02-12T15:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="LoginTest()[pri:1, instance:com.ccw.qa.TestCases.LoginPageTest@1ce92674]" name="LoginTest" duration-ms="28135" started-at="2019-02-12T15:30:51Z" finished-at="2019-02-12T15:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="LougoutTest()[pri:2, instance:com.ccw.qa.TestCases.LoginPageTest@1ce92674]" name="LougoutTest" duration-ms="11050" started-at="2019-02-12T15:31:19Z" finished-at="2019-02-12T15:31:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LougoutTest -->
+      </class> <!-- com.ccw.qa.TestCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
